@@ -17,8 +17,8 @@ Developed in 2025 as part of the 3rd-year Embedded Systems curriculum at JUNIA I
 * **Wireless Remote Control (LoRa):** Secondary custom PCB acting as an industrial-grade radio remote controller to mirror and manipulate audio parameters from a distance.
 
 ## Repository Structure
-
-Code/           # PIC microcontroller firmware & LoRa communication code
-Hardware/       # Schematics, PCB layouts, and Gerber files
+```text
+Guitare_Electro/           # PIC microcontroller firmware & LoRa communication code
+XX_Altium/       # Schematics, PCB layouts, and Gerber files
 3D_Models/      # CAD files for enclosures and hardware mechanical design
-Docs/           # Technical documentation and block diagrams
+Appendix/           # Technical documentation and block diagrams
