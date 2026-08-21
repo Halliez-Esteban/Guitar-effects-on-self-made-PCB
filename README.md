@@ -1,2 +1,8 @@
 # Guitar-effects-on-self-made-PCB
-This repository contains the whole code of a study project based on a self-made PCB via Altium. Images and circuit design informations also are provided.
+
+This project is a self-made PCB designed to apply 16 differents audio effects on an input signal in order to recreate an electric guitar's behavior.
+Using a PIC, it communicates via I2C,SPI,etc with differents peripherals to perform calculation, audio effects and information display both on 7 segments display and a PC console via UART.
+
+Code,3D Models, schematics and circuit designs are provided.
+
+This project has been made in 2025 during our 3rd year at JUNIA ISEN Lille, by a group of 6 members.
